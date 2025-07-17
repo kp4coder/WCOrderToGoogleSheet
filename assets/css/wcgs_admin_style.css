@@ -1,0 +1,5 @@
+.wcgs-setting-form select,
+.wcgs-setting-form textarea,
+.wcgs-setting-form input[type=text] {
+	width: 500px;
+}
